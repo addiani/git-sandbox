@@ -1,3 +1,6 @@
 this is a file 2
 adding some changes from branch master
-adding stash 
+adding function one 
+adding function two
+adding function three
+
