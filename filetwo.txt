@@ -3,5 +3,6 @@ adding some changes from branch master
 adding function one 
 adding function two
 adding function three
+adding function four
 ####
 
